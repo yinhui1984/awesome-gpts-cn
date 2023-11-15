@@ -48,8 +48,6 @@ Translated from: <https://github.com/taranjeet/awesome-gpts>   by ChatGPT
 - [TeslaGPT](https://chat.openai.com/g/g-XoF2Qfa6F-teslagpt): 您获取特斯拉和电动汽车知识的首选来源，作者是Omar Qazi
 - [Scruffy的汽车维修建议](https://chat.openai.com/g/g-69AuJhsig-scruffy-s-car-repair-advice): 检查汽车维修报价并指导节省费用的决策，作者是 [Zach Nagengast](https://x.com/zachnagengast/)
 
-ChatGPT
-
 ## 商业与产品
 
 - [Prompt Professor](https://chat.openai.com/g/g-qfoOICq1l-prompt-professor): 由 [Yota Ishikawa](https://x.com/ctgptlb/) 开发的提示工程师教师
